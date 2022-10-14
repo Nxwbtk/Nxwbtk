@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
-- 📫 How to reach me: bunthakans.s@ku.th / 65420147@kmitl.ac.th
+- 📫 How to reach me: bunthakan.s@ku.th / 65420147@kmitl.ac.th
 - 😄 Pronouns: He/him
 <!-- ⚡ Fun fact: ...-->
