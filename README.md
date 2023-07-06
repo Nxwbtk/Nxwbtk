@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him
 <!-- ⚡ Fun fact: ...-->
 
-![alt text](https://github.com/Nxwbtk/Nxwbtk/blob/main/Resume.pdf)
+![alt text](https://github.com/Nxwbtk/Nxwbtk/blob/main/Resume.png)
