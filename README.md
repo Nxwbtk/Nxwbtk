@@ -6,7 +6,7 @@ My name is New.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning on Database, Python oop and more.
+- 🌱 I’m currently learning on React, Nextjs and more.
 - 🏫 I'm currently study in Science faculty, Computer Science majoring at Kasetsart University. And 42Bangkok at KMITL.
 <!-- 
 - 👯 I’m looking to collaborate on ...
