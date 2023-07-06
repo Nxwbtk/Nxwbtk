@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: bunthakan.s@ku.th / 65420147@kmitl.ac.th
 - 😄 Pronouns: He/him
 <!-- ⚡ Fun fact: ...-->
+
+![alt text](https://github.com/Nxwbtk/Nxwbtk/blob/main/Resume.pdf)
