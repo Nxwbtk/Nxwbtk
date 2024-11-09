@@ -5,9 +5,9 @@ My name is New.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently part-time/freelance frontend developer.
+- 🔭 I’m currently FullStack developer.
 - 🌱 I’m currently learning on docker k8s and CI/CD.
-- 🏫 I'm currently study in Science faculty, Computer Science majoring at Kasetsart University. And software engineering 42Bangkok at KMITL.
+- 🏫 I'm currently study in Software engineering 42Bangkok at KMITL Science faculty. And Computer Science majoring at Kasetsart University. 
 <!-- 
 - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with K8s.
